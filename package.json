@@ -1,0 +1,15 @@
+{
+  "name": "javascript-coding-interview-questions",
+  "version": "1.0.0",
+  "description": "js interview question(js only)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:shivarao96/javascript-coding-interview-questions.git"
+  },
+  "author": "shiva rao",
+  "license": "MIT"
+}
